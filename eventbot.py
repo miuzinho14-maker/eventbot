@@ -88,6 +88,6 @@ async def event_list(ctx):
     await ctx.send(embed=embed)
 
 
-TOKEN = "MTUzODU1ODIyNjkxMDU1MjE0NA.GveyyO.gqPVghxRWxwCBuJoZaSBmcmOHb48OQUCpD4l3g"
+TOKEN = "MTUzODU1NTU3Nzk5MzY1ODM5OQ.GgrN4F.GxaxWOf3pdw04MIdKIbEJZsxHMdwBxAs9M6dhQ"
 
 bot.run(TOKEN)
